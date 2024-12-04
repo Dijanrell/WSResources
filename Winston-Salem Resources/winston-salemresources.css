@@ -1,0 +1,25 @@
+
+.headerbg {
+    background-color: black;
+    padding: 20px;
+    text-align: center; 
+}
+
+.header {
+    color:aliceblue;
+}
+
+h1, h2, h3, h4 {
+    font-family: 'Playfair Display', sans-serif;
+}
+
+p {
+    font-family: 'Lato', sans-serif;
+}
+
+.content {
+    max-width: 800px; /* Set a maximum width for the text container */
+    margin: 0 auto; /* Center the content horizontally */
+    padding: 20px; /* Add padding inside the container */
+    box-sizing: border-box; /* Include padding in the element's width */
+}
